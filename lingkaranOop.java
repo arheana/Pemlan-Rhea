@@ -1,4 +1,4 @@
-import java.util.Scanner;
+8396-BEAFimport java.util.Scanner;
 
 class BangunDatar{
     public int panjang;
